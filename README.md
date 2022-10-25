@@ -1,2 +1,6 @@
 # DoomScrollV2
- DoomScroll without Reactor
+
+An Among Us mod designed by Gary Wells. 
+Find the original project repo here: https://github.com/WellsGA/Doom-Scroll-Among-Us-mod
+
+This alternative version will not use Reactor.
